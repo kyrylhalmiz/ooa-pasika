@@ -1,1 +1,1 @@
-# ooa-pasika
+# LNU CS masters project. OOA subject
