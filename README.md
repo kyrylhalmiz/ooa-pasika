@@ -2,6 +2,10 @@
 
 Rentler is the real estate platform that offers a digital rental journey. It automates the standard rental tasks making the whole experience contact-free. All can be done in one place, hassle-free, and with no face-to-face contact.
 
+##[Test cases of the project](https://docs.google.com/spreadsheets/d/1YDGwxj543iDSMHPe9lNDTit0GaqMy7Y3bvujBlHNykI/edit?usp=sharing)
+
+##[Unit tests of the project](https://drive.google.com/drive/u/0/folders/1IlkSEX9BKGGDQYbRABi4uRJnWFL2S7JC)
+
 ## Team & Responsibilities 
 ### ***Project Manager (Marta Kostetska)***:
 #### Will oversee the entire project and ensure that it is completed on time and within budget. They will manage the project schedule, assign tasks to team members, and monitor progress. 
