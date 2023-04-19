@@ -13,7 +13,7 @@ Rentler is the real estate platform that offers a digital rental journey. It aut
 #### • Use Cases Coverage: 100% 
 #### • Test Cases Coverage: 86%
 #### • Code Coverage: 93%
-![photo_2023-04-19_15-51-26](https://user-images.githubusercontent.com/127091754/233080637-74fcd28c-7225-45c2-90ba-55812ac714c7.jpg)
+![зображення](https://user-images.githubusercontent.com/127091754/233082350-4395b2f2-b0b1-4c95-a2f9-0e7e28f57342.png)
 
 ## Team & Responsibilities 
 ### ***Project Manager (Marta Kostetska)***:
