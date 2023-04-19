@@ -6,6 +6,14 @@ Rentler is the real estate platform that offers a digital rental journey. It aut
 
 [Unit tests of the project](https://drive.google.com/drive/u/0/folders/1IlkSEX9BKGGDQYbRABi4uRJnWFL2S7JC)
 
+## Test Statistics:
+#### • Number of Use Cases: 50 
+#### • Number of Test Cases: 100 
+#### • Number of Integration & Unit Tests: 50 
+#### • Use Cases Coverage: 100% 
+#### • Test Cases Coverage: 86%
+#### • Code Coverage: 93%
+
 ## Team & Responsibilities 
 ### ***Project Manager (Marta Kostetska)***:
 #### Will oversee the entire project and ensure that it is completed on time and within budget. They will manage the project schedule, assign tasks to team members, and monitor progress. 
